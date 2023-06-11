@@ -4,6 +4,7 @@ A Data Analytics and Machine Learning project using Python to predict chances of
 Dataset used is: https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 Heart Disease attributes Index
+
     1) age - age in years
     2) sex - (1 = male; 0 = female)
     3) cp - chest pain type
